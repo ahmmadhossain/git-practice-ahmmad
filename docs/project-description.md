@@ -1,6 +1,6 @@
 # Project Description
 
-This project was created for practicing Git and GitHub operations.
+### This project was created for practicing Git and GitHub operations.
 
 Topics covered:
 
