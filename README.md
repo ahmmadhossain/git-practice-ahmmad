@@ -1,7 +1,13 @@
 # Git Practice Project
 
-## Name
-Ahmmad Hossain
+## Features
 
-## Description
-This project demonstrates Git and GitHub workflows including commits, branching, merging, and pushing code.
+- Git initialization
+- Branching
+- Merging
+- GitHub integration
+- Calculator functions
+
+## Author
+
+Ahmmad Hossain
